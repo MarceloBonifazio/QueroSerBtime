@@ -53,5 +53,7 @@ Para a execução da classe é necessário uma instalação prévia do php7+
    1. Linha de comando
       1. ``git clone https://github.com/MarceloBonifazio/QueroSerBtime folder-name``
    1. Zip
-      1. Baixe e descompacte a pasta
-1. Item 3
+      1. Baixe e descompacte a pasta aonde for executar a classe
+1. Para executar a classe em linha de comando, basta acessar a raiz do projeto e digitar
+   1. Linha de comando ``php Diamond.php <argv>`` onde <argv> é a letra do ponto mais distante
+   2. O código pode ser visto funcionando em: [repl.it](https://repl.it/@marcelobonifazio/SadAmusingSites)
