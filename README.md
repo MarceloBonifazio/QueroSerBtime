@@ -49,16 +49,9 @@ Traduzido de: http://www.cyber-dojo.com/
 
 Para a execução da classe é necessário uma instalação prévia do php7+
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-   
 1. Baixe o repositório via linha de comando, [zip](https://github.com/MarceloBonifazio/QueroSerBtime/archive/master.zip) ou Client Git.
-
-~1. Linha de comando -> ``git clone https://github.com/MarceloBonifazio/QueroSerBtime folder-name``
-
-~1. Zip -> Baixe e descompacte a pasta
-
-2.
+   1. Linha de comando
+      1. ``git clone https://github.com/MarceloBonifazio/QueroSerBtime folder-name``
+   1. Zip
+      1. Baixe e descompacte a pasta
+1. Item 3
