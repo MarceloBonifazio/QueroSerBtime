@@ -1,6 +1,6 @@
 # Quero ser Btime!
 
-Projeto de um teste aleátorio retirado de [DojoPuzzle Diamantes](http://dojopuzzles.com/problemas/exibe/diamantes/)
+Projeto de um teste aleatório retirado de [DojoPuzzle Diamantes](http://dojopuzzles.com/problemas/exibe/diamantes/)
 
 ## Descrição do teste
 
