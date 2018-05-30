@@ -31,6 +31,7 @@ E       E
 
 Dado a letra 'C' temos:
 
+```
   A
 
  B B
@@ -40,7 +41,7 @@ C   C
  B B
 
   A
-
+```
 
 Traduzido de: http://www.cyber-dojo.com/
 
