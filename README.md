@@ -55,5 +55,5 @@ Para a execução da classe é necessário uma instalação prévia do php7+
    1. Zip
       1. Baixe e descompacte a pasta aonde for executar a classe
 1. Para executar a classe em linha de comando, basta acessar a raiz do projeto e digitar
-   1. Linha de comando ``php Diamond.php <argv>`` onde <argv> é a letra do ponto mais distante
-   2. O código pode ser visto funcionando em: [repl.it](https://repl.it/@marcelobonifazio/SadAmusingSites)
+   1. Linha de comando ``php Diamond.php <argv>`` onde ``<argv>`` é a letra do ponto mais distante, caso o argumento não seja passado, será escolhida uma letra aleatória do alfabeto
+1. O código também pode ser visto funcionando em: [repl.it](https://repl.it/@marcelobonifazio/SadAmusingSites)
