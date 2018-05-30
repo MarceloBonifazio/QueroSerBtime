@@ -8,6 +8,7 @@ Dado uma letra ('A' a 'Z'), exiba um diamante iniciando em 'A' e tendo a letra f
 
 Por exemplo, dado a letra 'E' temos:
 
+``
     A   
 
    B B
@@ -25,7 +26,7 @@ E       E
    B B
 
     A
-
+``
  
 
 Dado a letra 'C' temos:
